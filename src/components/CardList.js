@@ -13,8 +13,8 @@ const CardList = ({ robots }) => {
 	})
 	return(
 	<div> 
-    	{cardsArray}
-    </div>
+    		{cardsArray}
+    	</div>
 	);
 }
 

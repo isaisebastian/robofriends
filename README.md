@@ -1,5 +1,5 @@
 # robofriends
-## Simple react-app that helped me learning React.js much better
+## Simple react-app with robots
 
 ![](https://github.com/isaisebastian/robofriends/blob/main/examples/example.gif)
 
@@ -10,4 +10,4 @@ Run instructions:
 3. Run `npm start`
 ```
 
-*This repo will be updated in the future with a Back-End part..*
+*Repo will be updated with a Back-end part in the future*
